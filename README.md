@@ -31,6 +31,6 @@ If you have any questions or feedback about this project, feel free to reach out
 
 - Email: ashutoshaman@duck.com
 - LinkedIn: linkedin.com/in/codelessness
-- Twitter: @yCodelessness
+- Twitter: @Codelessness
 
 I would love to hear from you and discuss any ideas or opportunities related to this project. Thank you for taking the time to read this repository!
