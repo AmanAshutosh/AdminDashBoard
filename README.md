@@ -17,7 +17,7 @@ This is a project repository for an admin panel, built using HTML and CSS. The a
 - Reports: A section for generating and viewing various reports related to the system, such as sales reports, inventory reports, and user reports.
 
 # How to use
-- Clone the repository: Clone this repository to your local machine using git clone https://github.com/[your-username]/admin-panel.git.
+- Clone the repository: Clone this repository to your local machine using git clone https://github.com/AmanAshutosh/admin-panel.git.
 
 - Open index.html in a browser: Open the file index.html in a browser of your choice.
 
